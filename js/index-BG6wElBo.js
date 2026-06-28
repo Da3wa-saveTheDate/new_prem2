@@ -15854,7 +15854,7 @@ function ta(e) {
 
 function jI(e) {
     let {
-        basename: t = "/",
+        basename: t = "/new_prem2/",
         children: n = null,
         location: r,
         navigationType: s = $r.Pop,
@@ -35827,3 +35827,4 @@ const G8 = () => {
         })
     };
 g1(document.getElementById("root")).render(f.jsx(Y8, {}));
+
